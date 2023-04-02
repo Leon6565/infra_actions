@@ -52,7 +52,7 @@ jobs:
         uses: docker/login-action@v1
         with:
           username: Leon665
-          password: 'Ntvjxrf0306/'
+          password: tsyPa8-9kashne-buRt
       - name: Push to Docker Hub
         # Пуш образа в Docker Hub
         uses: docker/build-push-action@v2
